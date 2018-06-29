@@ -1,5 +1,5 @@
 # Wrangle & Analyze Data
-This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree]((https://www.udacity.com/course/data-analyst-nanodegree--nd002) certification.
+This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) certification.
 
 ## Overview
 The project used data from the [WeRateDogs](https://twitter.com/dog_rates) Twitter account. The data was assessed, cleaned and analyzed to provide accurate insights into account follower behaviour.
