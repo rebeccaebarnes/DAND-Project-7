@@ -4,7 +4,7 @@ This project was completed as part of the course requirements of Udacity's [Data
 ## Overview
 The project used data from the [WeRateDogs](https://twitter.com/dog_rates) Twitter account. The data was assessed, cleaned and analyzed to provide accurate insights into account follower behaviour.
 
-An online summary of the material can be found at my blog. 
+An online summary of the material can be found at [my blog](https://rebeccaebarnes.github.io/2018/06/29/the-world-of-dogs). 
 
 The project involved gathering data using a variety of file types and gathering techniques (manual download, programmatic download, api access), assessing the data for quality and tidiness, cleaning the data using a define, code, test methodology, and completing analysis and visualzations of the cleaned datasets.
 
